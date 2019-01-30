@@ -1,3 +1,5 @@
+function logshout (string)
+  
 
 function shout(string) {
    string = "hello"
