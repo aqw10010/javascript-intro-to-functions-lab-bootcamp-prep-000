@@ -9,5 +9,5 @@ function  whisper(string) {
 }
 
 function sayHiToGrandma(string) {
- return string.toLowerCase()
+ return "I love you, too."
 }
