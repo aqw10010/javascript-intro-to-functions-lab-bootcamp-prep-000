@@ -11,6 +11,10 @@ function  whisper(string) {
 function logshout(string){
   console.log(string)
   }
+  
+  function logshout(string){
+  console.log(string)
+  }
 
 function sayHiToGrandma(string) {
  return "I love you, too."
