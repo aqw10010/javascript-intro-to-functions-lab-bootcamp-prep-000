@@ -1,5 +1,3 @@
-function logshout (string)
-  console.log(string)
 
 function shout(string) {
    string = "hello"
