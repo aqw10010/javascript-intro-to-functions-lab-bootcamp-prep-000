@@ -8,6 +8,9 @@ function  whisper(string) {
   return string.toLowerCase()
 }
 
+function logshout (string)
+  console.log(string)
+
 function sayHiToGrandma(string) {
  return "I love you, too."
 }
