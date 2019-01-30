@@ -1,7 +1,7 @@
 
 function shout(string) 
 {
-return string.toUpperCase()
+return string.toLowerCase()
 }
 
 function  whisper(string) {
